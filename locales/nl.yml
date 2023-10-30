@@ -1,0 +1,12 @@
+---
+nl:
+  header:
+    title: "Berlin Code of Conduct"
+    sub-title: "A Code of Conduct voor alle gebruikersgroepen en conferenties"
+  supporters:
+    title: "Supporters"
+    sub-title: "Deze gebruikersgroepen en conferenties ondersteunen de Berlin Code of Conduct:"
+    add: "Om je gebruikersgroep of conferentie in deze lijst te zetten, kun je een pull request openen naar %{link:onze repository}."
+  footer:
+    attribution: "Deze gedragscode is gebaseerd op de %{link:pdx.rb code of conduct}."
+
